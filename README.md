@@ -22,4 +22,4 @@ Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szaba
 * SaaS: Google Drive integráció
 
 ## Szolúsön sztekk
-Best of breed legyen, apu, légyszi! Én szeretném összerakni FOSS komponensekből, nem valami milliárdos licenszű multináci barbi-legóházban összegányolni valami fostaligát, amiről ha csinálnék gyönyörű screenshot-okat + szépen csillogó UML diagrammok tömkelegét, abból is lehetne nyilván kettesre szakdogát írni, de mégis mi a fasznak?! Ha már lúd, legyen kövér! Na!!!
+Best of breed legyen, apu, légyszi! Én szeretném összerakni FOSS komponensekből, nem valami milliárdos licenszű multináci barbiházban összegányolni valami fostaligát, amiről ha csinálnék gyönyörű screenshot-okat + szépen csillogó UML diagrammok tömkelegét, abból is lehetne nyilván kettesre szakdogát írni, de mégis mi a fasznak?! Ha már lúd, legyen kövér! Na!!!
