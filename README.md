@@ -8,9 +8,8 @@ Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokr
 * Midstream: nyílt szabvány használata, hogy le ne dobjon az adatbuszról a sofőr!
 * Downstream: adat leszívása tárházból valamilyen prezentáló cuccba. Ezt fogjuk csinálni!
 
-BI + Data Lake = HealthDB cache
-
-> “BI & Big Data are complementary, not exclusionary!!!!4” - Abraham Lincoln
+### BI + Data Lake
+“BI & Big Data are complementary, not exclusionary!!!!4” - Abraham Lincoln
 
 ## Prezentációs léjer
 Open Source adatmodellező library: csillag, hópehely, galaxis, satöbbi yeah!!!
