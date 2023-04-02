@@ -22,7 +22,7 @@ Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szaba
 
 ## Fölhőben nyomulunk!!
 * Infrastruktúra: céges szerveren 1 üres virtuális gépet adjatok má gec!!
-* Platform: céges szerveren valódi gép operációs rendszerén saját user space.
+* Platform: céges __Linux__ szerveren saját user space.
 * SaaS: Google Drive integráció
 
 ## Sztekk
