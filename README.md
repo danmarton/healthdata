@@ -1,7 +1,7 @@
 # Health Data Browser
 OE-NIK BSc thesis, autumn 2023 (HU)
 
-## Adatpumpa léjer
+## Adatpumpa léjer (ETL)
 Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokra kapcsolódnánk, lenne a config oldalon 1 lista + hozzáadás gomb. A fölhasználó fölépítene 1 query-t a vizuális felületen & akkor a szoftver le- & betöltené egyszerre minden szükséges adatot, ez eltartana 1 darabig, utána mehetnének a doktorok & doktorinák a homokozóba játszani.
 
 ## Prezentációs léjer
