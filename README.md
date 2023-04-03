@@ -4,9 +4,9 @@ OE-NIK BSc thesis, autumn 2023. English versiön coming soon!!!
 ## Adatpumpa (ETL)
 Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokra kapcsolódnánk, lenne a config oldalon 1 lista + hozzáadás gomb. Az orvosok közül a legokosabb (avagy a helyi IT arc) fölépítené fasza bonyolult query-jét a vizuális felületen, majd megnyomná a nagy piros gombot & akkor a szoftver le- & betöltene minden szükséges adatot, ez eltartana 1 darabig, utána mehetnének a többi doktorok & doktorinák a homokozóba játszani.
 
-* Upstream: OLTP rendszerekből fölszívni az adatokat valamilyen tárházba. Nem vállalom!!!
+* Upstream: OLTP rendszerekből fölszívni az adatokat valamilyen tárházba. Nem vállalom!
 * Midstream: fasza nemzetközi standard adatmodellek értelmezése, hogy le ne dobjon az adatbuszról a sofőr!
-* Downstream: adat leszívása tárházakból valamilyen prezentáló cuccba. Ezt fogjuk csinálni!
+* Downstream: adat leszívása tárházakból valamilyen prezentáló cuccba. Ezt fogjuk csinálni, yeah!!!
 
 ## Adatmedence (Data Lake)
 A big data ülepítőhelye, mondjuk, akár egy Hadoop installáció lehetne, ahová szarul struktúrált (értsd: XML) adatfájlokat lehetne betölteni, hogy a bennük rejlő adatokat rá lehessen kapcsolni a központi adatmodellre - lásd rögtön alább! Nem akarok a big datára nagyon durván rámenni, mert sajnos csak 1 seggem van, ami tehát csak 1 lóra elegendő (avagy annak 1 bizonyos testrészére) de hogy menő legyek, azért gondoltam, ezt is ideírom.
