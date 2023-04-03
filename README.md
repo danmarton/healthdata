@@ -27,4 +27,4 @@ Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szaba
 * SaaS: Google Drive integráció
 
 ## Sztekk
-Best of breed legyen, apu, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost! Fekalomán vagyok. Free & open source, bocsi, csak vicceltem, na, vicceltem!! Nem valami milliárdos licenszű szuper integrált multináci barbiházban szeretnék hülyéskedni, pedig azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nekem az önérzetemet mindenképpen sértené, heló bocsi.
+Best of breed legyen, apu, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Fekalomán vagyok! Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multináci barbiházban szeretnék hülyéskedni, pedig azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nekem az önérzetemet mindenképpen sértené, heló bocsi!!!
