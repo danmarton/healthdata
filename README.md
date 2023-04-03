@@ -22,9 +22,9 @@ Open Source adatmodellező library: csillag, hópehely, galaxis, satöbbi yeah!!
 Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szabad idővel, csak épp kevés pénzzel. Keresik még nagyon a helyüket az orvos-világban, mint én az IT világban, összehordja a szemetet a szél. Szeretnék néhány ilyen embert bevonni, hogy ők béta-teszteljék majd a szotvert. Kevés feature lenne sok dokumentációval, vicces olvasmányos írások + 10-20 perces screencast videók is fölkerülnének a saját YouTube-csatornámra. Veszedelmesen profi jútyúb-influenszer vagyok, úgy vigyázz!!!
 
 ## Felhők
-* Infrastruktúra: céges szerveren 1 üres virtuális gépet adjatok má gec!!
-* Platform: céges __Linux__ szerveren saját user space.
-* SaaS: Google Drive integráció
+* Infrastruktúra a felhőben: virtuális gép készítése, hogy egyből 1 konténerbe be lehessen rakni.
+* Platform a felhőben: Ubuntu szerverre installáló szkript, gondolom, abból van a legtöbb. 
+* Szoftver a felhőben: Google Drive integráció
 
 ## Sztekk
 Best of breed legyen, apu, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Fekalomán vagyok! Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multináci barbiházban szeretnék hülyéskedni, pedig azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nekem az önérzetemet mindenképpen sértené, heló bocsi!!!
