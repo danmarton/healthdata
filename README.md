@@ -23,8 +23,8 @@ Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szaba
 
 ## Felhők
 * Infrastruktúra a felhőben: virtuális gép készítése, hogy egyből 1 konténerbe be lehessen rakni.
-* Platform a felhőben: Ubuntu szerverre installáló szkript, gondolom, abból van a legtöbb. 
-* Szoftver a felhőben: Google Drive integráció
+* Platform a felhőben: valamelyik népszerű platformra installáló szkript
+* Szoftverek a felhőben: Google Drive esetleg érdekelhet minket!
 
 ## Sztekk
 Best of breed legyen, apu, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Fekalomán vagyok! Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multináci barbiházban szeretnék hülyéskedni, pedig azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nekem az önérzetemet mindenképpen sértené, heló bocsi!!!
