@@ -1,5 +1,5 @@
 # Health Data Browser
-OE-NIK BSc thesis, autumn 2023. English version: [http://healthdata.sourceforge.io SourceForge]
+OE-NIK BSc thesis, autumn 2023. English website: http://healthdata.sourceforge.io
 
 ## Adatpumpa (ETL)
 Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokra kapcsolódnánk, lenne a config oldalon 1 lista + hozzáadás gomb. Az orvosok közül a legokosabb (avagy a helyi IT arc) fölépítené fasza bonyolult query-jét a vizuális felületen, majd megnyomná a nagy piros gombot & akkor a szoftver le- & betöltene minden szükséges adatot, ez eltartana 1 darabig, utána mehetnének a többi doktorok & doktorinák a homokozóba játszani.
