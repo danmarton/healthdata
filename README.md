@@ -1,12 +1,12 @@
 # Health Data Browser
 
-The **Health Data Browser** is an open source visual analytics tool
+Visual analytics tool for medical research teams
 
-* For medical research teams to download large data sets
+* To download large data sets by building a virtual data warehouse 
 
-* By building a virtual data warehouse from public health data repositories
+* From public health data repositories worldwide
 
-* Worldwide, with an extendable list of sources
+* With an editable list of sources
 
 * Acessed through standard web service protocols.
 
