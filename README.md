@@ -20,7 +20,7 @@ Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokr
 * Downstream: adat leszívása tárházakból valamilyen prezentáló cuccba. Ezt fogjuk csinálni, yeah!!!
 
 ## Adatmedence (Data Lake)
-A big data ülepítőhelye valami nem túl bonyolult NoSQL cucc lenne (amúgy elsőre a Hadoop jutott eszembe) ahová szarul struktúrált (értsd: XML) adatfájlokat lehetne betölteni, hogy a bennük rejlő adatokat rá lehessen kapcsolni a query-gazda szemantikai modelljére - lásd rögtön alább! Nem akarok a big datára nagyon durván rámenni, mert sajnos csak 1 seggem van, ami tehát csak 1 lóra elegendő (avagy annak 1 bizonyos testrészére) de hogy menő legyek, azért gondoltam, ezt is ideírom.
+A big data ülepítőhelye valami nem túl bonyolult NoSQL cucc lenne (amúgy elsőre a Hadoop jutott eszembe) ahová XML adatfájlokat lehetne betölteni, hogy a bennük rejlő adatokat rá lehessen kapcsolni a query-gazda szemantikai modelljére - lásd rögtön alább! Nem akarok a big datára nagyon durván rámenni, mert sajnos csak 1 seggem van, ami tehát csak 1 lóra elegendő (avagy annak 1 bizonyos testrészére) de hogy menő legyek, azért gondoltam, ezt is ideírom.
 
 ## Prezentációs léjer
 Open Source adatmodellező library: csillag, hópehely, galaxis, satöbbi yeah!!! Imádjuk.
@@ -37,5 +37,5 @@ Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szaba
 * Platform a felhőben: valamelyik népszerű platformra installáló szkript
 * Szoftverek a felhőben: Google Drive esetleg érdekelhet minket!
 
-## Sztekk
-Best of breed legyen, apu, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Fekalomán vagyok! Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multináci barbiházban szeretnék hülyéskedni, pedig azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nekem az önérzetemet mindenképpen sértené, heló bocsi!!!
+## Stack
+Best of breed legyen, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multi barbiházban szeretnék hülyéskedni, noha bár azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nem biztos, hogy egyrészt meglenne kettesre, másrészt az önbecsülésemet hogy nem rombolná le.
