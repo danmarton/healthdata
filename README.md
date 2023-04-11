@@ -36,7 +36,7 @@ Now these will probably be a bunch of over-educated medical graduates with lots 
 ## Cloud Atlas
 * Virtual machine image to rely on cloud-based infrastructure
 * Installation scripts to rely on cloud-based OS
-* Google Drive integration to rely on... GoogleDrive, I guess?? Probably.
+* Google Drive integration to rely on... Google Drive, I guess?? Probably, yeah.
 
 ## Stack
 I want a best of breed stack made of open source components, period. I won't mess around with a super integrated shiny big corporate juggernaut with a billion dollar TCO, honey, that ain't my style!!!
