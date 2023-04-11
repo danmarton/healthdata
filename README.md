@@ -12,30 +12,39 @@ Visual analytics tool for medical research teams
 
 SourceForge site: http://healthdata.sourceforge.io
 
-## Adatpumpa (ETL)
-Az adatbusz nemzetközi szabványokra épülne, nyilvános ingyenes data martokra kapcsolódnánk, lenne a config oldalon 1 lista + hozzáadás gomb. Az orvosok közül a legokosabb (avagy a helyi IT arc) fölépítené fasza bonyolult query-jét a vizuális felületen, majd megnyomná a nagy piros gombot & akkor a szoftver le- & betöltene minden szükséges adatot, ez eltartana 1 darabig, utána mehetnének a többi doktorok & doktorinák a homokozóba játszani.
+## Data Pump (ETL)
+The data bus will be built upon international (de facto) standards, connected to public open data marts listed on a tab of the config page with Add & Remove buttons - okay, maybe an Edit as well. Yo! The biggest nerd of the research team would use our software to build a big fancy query that would start downloading a huge amount of data when they press the big red Launch button. This would probably take a while, but afterwards the rest of the team would be able to come into the sandbox to play with the data as well.
 
-* Upstream: OLTP rendszerekből fölszívni az adatokat valamilyen tárházba. Nem vállalom!
-* Midstream: fasza nemzetközi standard adatmodellek értelmezése, hogy le ne dobjon az adatbuszról a sofőr!
-* Downstream: adat leszívása tárházakból valamilyen prezentáló cuccba. Ezt fogjuk csinálni, yeah!!!
+* Upstream: mine data from brainf*ck legacy systems to modern warehouses. None of our business, honey!
+* Midstream: implement powerful data modeling standards to prevent the driver from kicking our ass off the data bus.
+* Downstream: download data from warehouses into visual analytics thingy. This is what we are gonna do!!!
 
-## Adatmedence (Data Lake)
-A big data ülepítőhelye valami nem túl bonyolult NoSQL cucc lenne (amúgy elsőre a Hadoop jutott eszembe) ahová XML adatfájlokat lehetne betölteni, hogy a bennük rejlő adatokat rá lehessen kapcsolni a query-gazda szemantikai modelljére - lásd rögtön alább! Nem akarok a big datára nagyon durván rámenni, mert sajnos csak 1 seggem van, ami tehát csak 1 lóra elegendő (avagy annak 1 bizonyos testrészére) de hogy menő legyek, azért gondoltam, ezt is ideírom.
+## Data Lake
+We will have a data lake where XML files will be downloaded & parsed. After parsing a file, the resident nerd could patch the newfound data structures into their central model - see below!!
 
-## Prezentációs léjer
-Open Source adatmodellező library: csillag, hópehely, galaxis, satöbbi yeah!!! Imádjuk.
+## Visual Analytics Thingy
 
-* Csillag: tény-tábla + dimenzió-táblák
-* Hópehely: tény-tábla + dimenzió-táblák re-normalizálva
-* Galaxis: több tény-tábla, dimenzió-táblákon át lehet ugrálni köztük.
+This would rely on our knowledge of the following data models, they will be explained thoroughly in the documentation of our product that will include video lectures presented by ME!!! A fact table is a quickly running list of logical [predicates](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)) made of the primary keys of slowly changing tables information called dimensions, that's the bottom line.
 
-## Felhasználók
-Túlképzett pályakezdő orvos-kutatók & egészségügyi szakemberek sok szabad idővel, csak épp kevés pénzzel. Keresik még nagyon a helyüket az orvos-világban, mint én az IT világban, összehordja a szemetet a szél. Szeretnék néhány ilyen embert bevonni, hogy ők béta-teszteljék majd a szotvert. Kevés feature lenne sok dokumentációval, vicces olvasmányos írások + 10-20 perces screencast videók is fölkerülnének a saját YouTube-csatornámra. Veszedelmesen profi jútyúb-influenszer vagyok, úgy vigyázz!!!
+* Star: Facts + Dimensions
+* Snowflake: Facts + Dimensions re-normalized
+* Galaxy: more than one fact table, with dimensions as bridges between them!
 
-## Felhők
-* Infrastruktúra a felhőben: virtuális gép készítése, hogy egyből 1 konténerbe be lehessen rakni.
-* Platform a felhőben: valamelyik népszerű platformra installáló szkript
-* Szoftverek a felhőben: Google Drive esetleg érdekelhet minket!
+## User Base
+Now these will probably be a bunch of over-educated medical graduates with lots of free time BUT all the less money available to realize their dreams of helping mankind overcome diseases, yo! They are looking for their place in the medical world, just like me in the IT world. These kids will be our beta testers or something, I want to include at least some of them into the development process. The product would have relatively few features, but with a ton of documentation to help them understand each!!!
+
+## Cloud Atlas
+* Virtual machine image to rely on cloud-based infrastructure
+* Installation scripts to rely on cloud-based OS
+* Google Drive integration to rely on... GoogleDrive, I guess?? Probably.
 
 ## Stack
-Best of breed legyen, légyszi! Én szeretném összerakni FOS komponensekből, igen, imádom a fost. Free & open source, bocsi, csak vicceltem, na, vicceltem. Annyi, hogy nem valami milliárdos licenszű szuper integrált multi barbiházban szeretnék hülyéskedni, noha bár azt is ledokumentálhatnám gyönyörű screenshot-okkal & szépen csillogó UML diagramokkal, hogy a szakdoga meglegyen kettesre, de nem biztos, hogy egyrészt meglenne kettesre, másrészt az önbecsülésemet hogy nem rombolná le.
+I want a best of breed stack made of open source components, period. I won't mess around with a super integrated shiny big corporate juggernaut with a billion dollar TCO, honey, that ain't my style!!!
+
+* OS: Ubuntu
+* Text editor: Gedit
+* Database: PostgreSQL
+* Languages: Python, Java, Vala (C# translated to C)
+* Front-end: Django
+* Back-end: Apache
+* Version control: Git
