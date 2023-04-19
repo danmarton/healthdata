@@ -24,7 +24,9 @@ We will have a data lake where XML files will be downloaded & parsed. After pars
 
 ## Visual Analytics Thingy
 
-This would rely on our knowledge of the following data models, they will be explained thoroughly in the documentation of our product that will include video lectures presented by ME!!! A fact table is a quickly running list of logical [predicates](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)) made of the primary keys of slowly changing tables information called dimensions, that's the bottom line.
+This would rely on our knowledge of the following data models, they will be explained thoroughly in the documentation of our product that will include video lectures presented by ME!!! 
+
+A fact table is a quickly running list of logical [predicates](https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)) made of the primary keys in slowly changing metadata tables called dimensions.
 
 * Star: Facts + Dimensions
 * Snowflake: Facts + Dimensions re-normalized
