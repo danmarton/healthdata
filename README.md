@@ -15,7 +15,7 @@ SourceForge site: http://healthdata.sourceforge.io
 ## Data Pump (ETL)
 The data bus will be built upon international (de facto) standards, connected to public open data marts listed on a tab of the config page with Add & Remove buttons - okay, maybe an Edit as well. Yo! The biggest nerd of the research team would use our software to build a big fancy query that would start downloading a huge amount of data when they press the big red Launch button. This would probably take a while, but afterwards the rest of the team would be able to come into the sandbox to play with the data as well.
 
-* Upstream: mine data from brainf*ck legacy systems to modern warehouses. None of our business, honey!
+* Upstream: mine data from operational (incl. legacy) systems to modern warehouses. None of our business this is!
 * Midstream: implement powerful data modeling standards to prevent the driver from kicking our ass off the data bus.
 * Downstream: download data from warehouses into visual analytics thingy. This is what we are gonna do!!!
 
@@ -39,7 +39,7 @@ Now these will probably be a bunch of over-educated medical graduates with lots 
 * Google Drive integration to rely on... Google Drive, I guess?? Probably, yeah.
 
 ## Stack
-I want a best of breed stack made of open source components, period. I won't mess around with a super integrated shiny big corporate juggernaut with a billion dollar TCO, honey, that ain't my style!!!
+I want a best of breed stack made of open source components, period. I won't mess around with a super integrated shiny big corporate juggernaut with a billion dollar TCO, habibi, that ain't my style!!!
 
 * OS: Ubuntu
 * Text editor: Gedit
