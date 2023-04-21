@@ -46,7 +46,7 @@ I want a best of breed stack made of open source components, period. I won't mes
 * OS: Ubuntu
 * Text editor: Gedit
 * Database: PostgreSQL
-* Languages: Python, Java, C# (Mono)
+* Languages: Python, C#
 * Front-end: Django
 * Back-end: Apache
 * Version control: Git
