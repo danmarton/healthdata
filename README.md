@@ -33,7 +33,7 @@ A fact table is a quickly running list of logical [predicates](https://en.wikipe
 * Galaxy: more than one fact table, with dimensions as bridges between them!
 
 ## User Base
-Now these will probably be a bunch of over-educated medical graduates with lots of free time BUT all the less money available to realize their dreams of helping mankind overcome diseases, yo! They are looking for their place in the medical world, just like me in the IT world. These kids will be our beta testers or something, I want to include at least some of them into the development process. The product would have relatively few features, but with a ton of documentation to help them understand each!!!
+Now these will probably be a bunch of over-educated medical graduates with lots of free time BUT all the less money available to realize their dreams of helping mankind overcome diseases, yo! They are looking for their place in the medical world, just like me in the IT world. These kids will be our beta testers or something, I want to include at least some of them into the development process. The very first product would have few features, but with a lot of documentation to help them understand each!!!
 
 ## Cloud Atlas
 * Virtual machine image to rely on cloud-based infrastructure
