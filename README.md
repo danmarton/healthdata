@@ -44,7 +44,7 @@ Now these will probably be a bunch of over-educated medical graduates with lots 
 I want a best of breed stack made of open source components, period. I won't mess around with a super integrated shiny big corporate juggernaut with a billion dollar TCO, habibi, that ain't my style!!!
 
 * OS: Ubuntu
-* Text editor: Gedit
+* IDE: yet to be announced UwU
 * Database: PostgreSQL
 * Languages: Python, C#
 * Front-end: Django
